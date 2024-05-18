@@ -10,7 +10,7 @@
           "run",
           "dev"
         ],
-        "cwd": "${workspaceFolder}/server",
+        "cwd": "${workspaceFolder}",
         "protocol": "inspector",
         "restart": true,
         "console": "integratedTerminal"

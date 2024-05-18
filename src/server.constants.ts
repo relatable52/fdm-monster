@@ -63,12 +63,12 @@ export const AppConstants = {
   GITHUB_PAT: "GITHUB_PAT",
   serverPackageName: "@fdm-monster/server",
   clientPackageName: "@fdm-monster/client",
-  clientRepoName: "fdm-monster-client",
+  clientRepoName: "imslab_client",
   serverRepoName: "fdm-monster",
-  orgName: "fdm-monster",
+  orgName: "relatable52",
   // Wizard version changes will trigger a re-run of the wizard
   currentWizardVersion: 1,
-  defaultClientMinimum: "1.5.14",
+  defaultClientMinimum: "0.0.1",
 
   influxUrl: "INFLUX_URL",
   influxToken: "INFLUX_TOKEN",
